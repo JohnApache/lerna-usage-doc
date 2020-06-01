@@ -1,6 +1,6 @@
 {
   "name": "module-2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "> TODO: description",
   "author": "cjw <1468733552@qq.com>",
   "homepage": "https://github.com/JohnApache/lerna-usage-doc#readme",
@@ -29,6 +29,7 @@
     "a": "^2.1.2",
     "b": "^2.0.1",
     "c": "^1.0.0",
+    "undefined": "/Users/cuijianwei/WebstormProjects/myproject/lerna-usage-doc",
     "yargs": "^15.3.1"
   },
   "bugs": {

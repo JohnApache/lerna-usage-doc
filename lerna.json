@@ -8,7 +8,11 @@
       "access": "public",
       "bin": true,
       "esModule": true,
-      "dependencies": ["a", "b"]
+      "dependencies": ["a", "b"],
+      "homepage": "https://github.com/JohnApache/lerna-usage-doc",
+      "keywords": ["module"],
+      "private": false,
+      "license": "MIT"
     }
   }
 }

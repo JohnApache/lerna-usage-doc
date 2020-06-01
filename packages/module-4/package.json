@@ -1,14 +1,14 @@
 {
-  "name": "module-3",
-  "version": "2.0.1",
+  "name": "module-4",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "cjw <1468733552@qq.com>",
-  "homepage": "https://github.com/JohnApache/lerna-usage-doc#readme",
-  "license": "ISC",
-  "main": "dist/module-3.js",
-  "module": "dist/module-3.module.js",
+  "homepage": "https://github.com/JohnApache/lerna-usage-doc/tree/master/packages/module-4#readme",
+  "license": "MIT",
+  "main": "dist/module-4.js",
+  "module": "dist/module-4.module.js",
   "bin": {
-    "module-3": "bin/module-3"
+    "module-4": "bin/module-4"
   },
   "directories": {
     "lib": "dist",
