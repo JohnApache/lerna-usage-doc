@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "command": {
+    "create": {
+      "access": "public",
+      "bin": true,
+      "esModule": true,
+      "dependencies": ["a", "b"]
+    }
+  }
+}

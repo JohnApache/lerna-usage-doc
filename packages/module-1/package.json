@@ -1,0 +1,30 @@
+{
+  "name": "module-1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "cjw <1468733552@qq.com>",
+  "homepage": "https://github.com/JohnApache/lerna-usage-doc#readme",
+  "license": "ISC",
+  "main": "lib/module-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnApache/lerna-usage-doc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "a": "^2.1.2",
+    "b": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnApache/lerna-usage-doc/issues"
+  }
+}
