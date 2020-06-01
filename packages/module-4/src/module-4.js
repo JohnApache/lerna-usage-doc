@@ -1,5 +1,5 @@
 export default function module4() {
     // TODO
 
-    console.log('module4')
+    console.log('module4');
 }
