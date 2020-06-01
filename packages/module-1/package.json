@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "a": "^2.1.2",
-    "b": "^2.0.1"
+    "b": "^2.0.1",
+    "c": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/JohnApache/lerna-usage-doc/issues"
