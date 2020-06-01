@@ -13,6 +13,9 @@
       "keywords": ["module"],
       "private": false,
       "license": "MIT"
+    },
+    "version": {
+      "message": "chore(release): publish %s"
     }
   }
 }
