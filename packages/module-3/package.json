@@ -28,6 +28,7 @@
   "dependencies": {
     "a": "^2.1.2",
     "b": "^2.0.1",
+    "d": "^1.0.1",
     "undefined": "/Users/cuijianwei/WebstormProjects/myproject/lerna-usage-doc",
     "yargs": "^15.3.1"
   },
