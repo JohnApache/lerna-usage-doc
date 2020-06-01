@@ -1,0 +1,36 @@
+{
+  "name": "module-5",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "cjw <1468733552@qq.com>",
+  "homepage": "https://github.com/JohnApache/lerna-usage-doc/tree/master/packages/module-5#readme",
+  "license": "MIT",
+  "main": "dist/module-5.js",
+  "module": "dist/module-5.module.js",
+  "bin": {
+    "module-5": "bin/module-5"
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "bin",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnApache/lerna-usage-doc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "a": "^2.1.2",
+    "b": "^2.0.1",
+    "yargs": "^15.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnApache/lerna-usage-doc/issues"
+  }
+}
